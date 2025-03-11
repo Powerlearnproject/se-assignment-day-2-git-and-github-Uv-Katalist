@@ -118,3 +118,17 @@ Private repositories provide security and control, making them suitable for busi
     Use branches for new features.
     Pull changes before making updates.
     Review code before merging pull requests.
+
+
+## REFERENCES
+Pro Git (Book by Scott Chacon and Ben Straub) – A comprehensive guide to Git and GitHub. Available for free at https://git-scm.com/book/en/v2.
+
+GitHub Docs – Getting Started – Official GitHub documentation for setting up repositories, commits, branches, and pull requests. Available at https://docs.github.com/en/get-started.
+
+Atlassian Git Tutorial – A well-structured guide on Git workflows, branching, and version control concepts. Available at https://www.atlassian.com/git.
+
+The GitHub Handbook by GitHub – Covers collaboration best practices, issues, pull requests, and project management. Available at https://guides.github.com/introduction/git-handbook/.
+
+Stack Overflow Developer Survey (2024) – Highlights Git and GitHub as the most used version control tools among developers. Available at https://insights.stackoverflow.com/survey.
+
+FreeCodeCamp – Git & GitHub Guide – A beginner-friendly resource for understanding version control and GitHub workflows. Available at https://www.freecodecamp.org/news/learn-the-basics-of-git-and-github/.
